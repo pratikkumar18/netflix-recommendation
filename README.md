@@ -88,21 +88,6 @@ With millions of movies and user interactions, users often face decision fatigue
 
 ---
 
-## 🧑‍💻 Author
-
-**Pratikkumar [Your Last Name]**  
-Postgraduate Diploma in Business Analytics – Warwick Business School  
-Email: [your-email@example.com]  
-LinkedIn: [linkedin.com/in/your-profile](#)
-
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE). You are free to reuse and extend this work with attribution.
-
----
-
 ## 🙌 Acknowledgments
 
 - Netflix Prize Dataset
